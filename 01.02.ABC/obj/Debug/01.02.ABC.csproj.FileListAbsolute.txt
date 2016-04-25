@@ -1,0 +1,6 @@
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Exam\01.02.ABC\bin\Debug\01.02.ABC.exe.config
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Exam\01.02.ABC\bin\Debug\01.02.ABC.exe
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Exam\01.02.ABC\bin\Debug\01.02.ABC.pdb
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Exam\01.02.ABC\obj\Debug\01.02.ABC.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Exam\01.02.ABC\obj\Debug\01.02.ABC.exe
+C:\Users\Tony\Documents\Visual Studio 2015\Projects\Exam\01.02.ABC\obj\Debug\01.02.ABC.pdb
